@@ -1,0 +1,1 @@
+In this scenario, you will learn how to setup litmus CRD's and how to use them to check resilience of your system.
