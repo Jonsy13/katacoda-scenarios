@@ -1,4 +1,4 @@
-## Task
+<!-- ## Task
 
 Check if your cluster is healthy and running
 
@@ -9,4 +9,4 @@ kubectl cluster-info`{{execute}}
 
 Check helm version
 
-`helm version --short`{{execute}}
+`helm version --short`{{execute}} -->
