@@ -1,8 +1,8 @@
 {
-  "title": "Light",
-  "description": "Enlighten",
-  "difficulty": "Intermediate",
-  "time": "30 minutes",
+  "title": "Enlightment",
+  "description": "How to find ways in your life",
+  "difficulty": "Beginner",
+  "time": "10 minutes",
   "details": {
     "steps": [
       {
@@ -12,14 +12,6 @@
       {
         "title": "Step 2",
         "text": "step2.md"
-      },
-      {
-        "title": "Step 3",
-        "text": "step3.md"
-      },
-      {
-        "title": "Step 4",
-        "text": "step4.md"
       }
     ],
     "intro": {
@@ -29,7 +21,9 @@
       "text": "finish.md"
     }
   },
-  "environment": {},
+  "environment": {
+    "uilayout": "editor-terminal"
+  },
   "backend": {
     "imageid": "minikube-running"
   }
