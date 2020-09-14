@@ -12,7 +12,8 @@
       },
       {
         "title": "Step 2",
-        "text": "step2.md"
+        "text": "step2.md",
+        "code":"clear.sh"
       }
     ],
     "intro": {
@@ -23,7 +24,7 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal"
+    "uilayout": "terminal"
   },
   "backend": {
     "imageid": "kubernetes-cluster-running:1.18"
